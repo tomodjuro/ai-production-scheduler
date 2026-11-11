@@ -29,9 +29,11 @@ An intelligent production planning assistant built with **Python**, **Pandas**, 
 ai-production-scheduler/
 │
 ├── data/
-│   └── radni_nalogi.csv       # Simulated ERP work orders dataset
-├── app.py                     # Streamlit frontend & UI logic
-├── backend.py                 # Core planning logic, OTD calculation & Groq API
-├── requirements.txt           # Python dependencies
-├── .env                       # your Groq API key
-└── README.md                  # Project documentation
+    ├── machines_capacity.csv    # Simulated ERP work orders, machines and stock dataset
+    ├── raw_materials_stock.csv
+│   └── work_orders.csv       
+├── app.py                       # Streamlit frontend & UI logic
+├── backend.py                   # Core planning logic, OTD calculation & Groq API
+├── requirements.txt             # Python dependencies
+├── .env                         # your Groq API key
+└── README.md                    # Project documentation
