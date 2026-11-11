@@ -1,0 +1,4 @@
+Linija_ID,Naziv_Linije,Dnevni_Kapacitet_Sati,Broj_Radnika,Status_Linije
+Linija-1,Linija za cijevne grijače,16,4,Aktivna
+Linija-2,Linija za termostate i sklopke,16,3,Redoviti servis
+Linija-3,Linija za grijaće ploče,16,2,Aktivna

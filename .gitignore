@@ -1,0 +1,14 @@
+# Portable paketi i okruženja
+Aplikacija_Paket/
+planer/
+
+# Python privremene datoteke
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code postavke
+.vscode/
+
+# Osjetljive konfiguracijske datoteke
+.env

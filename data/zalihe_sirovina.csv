@@ -1,0 +1,6 @@
+Materijal_ID,Naziv_Materijala,Kolicina_Zaliha,Jedinica_Mjere,Ocekivana_Isporuka_Dani
+MAT-101,Bakrena cijev 8mm,2500,metar,0
+MAT-102,Bimetalna traka,0,metar,3
+MAT-103,Keramički izolator,8000,komad,0
+MAT-104,Aluminijska kućišta,450,komad,0
+MAT-105,Senzorska sonda,0,komad,4

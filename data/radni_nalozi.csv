@@ -1,0 +1,6 @@
+Nalog_ID,Proizvod,Kolicina,Linija,Potrebno_sati,Rok_isporuke_dani,Dostupna_sirovina
+RN-301,Cijevni grijač A1,1000,Linija-1,24.0,2,True
+RN-302,Kapilarni termostat T2,450,Linija-2,18.0,1,False
+RN-303,Rotacijski prekidač P3,1500,Linija-1,36.0,3,True
+RN-304,Grijača ploča HP4,200,Linija-3,10.0,4,True
+RN-305,Regulator temperature R5,800,Linija-2,28.0,2,False
