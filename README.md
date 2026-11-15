@@ -36,7 +36,8 @@ ai-production-scheduler/
 ├── backend.py                   # Core planning logic, OTD calculation & Groq API
 ├── requirements.txt             # Python dependencies
 ├── .env                         # your Groq API key
-└── README.md                    # Project documentation '''
+└── README.md                    # Project documentation 
+
 
 ---
 
