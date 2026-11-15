@@ -45,9 +45,9 @@ ai-production-scheduler/
 
 If you want to run this application on a target machine that **does not have Python or a pre-configured environment installed**, you can use the portable folder structure.
 
-### Step 1: Prepare the `Aplikacija_Paket` Directory
+### Step 1: Prepare the `Aplication` Directory
 
-Create a folder named `Aplikacija_Paket` with the following layout:
+Create a folder named `Aplication` with the following layout:
 
 ```text
 Aplikacija_Paket/
@@ -66,7 +66,7 @@ Aplikacija_Paket/
 ### Step 2: Download & Configure Portable Python
 
 1. Download the official **Python Windows embeddable package (64-bit)** for version 3.12 from [python.org](https://www.python.org/downloads/windows/).
-2. Unpack the embeddable Python archive into the `python/` subfolder inside `Aplikacija_Paket`.
+2. Unpack the embeddable Python archive into the `python/` subfolder inside `Aplication`.
 3. Manually create the `Lib/site-packages` folder inside `python/` and copy all required libraries (Streamlit, Pandas, Groq, etc.) from your local virtual environment (`venv/Lib/site-packages`).
 4. In the root directory of the `python/` folder, open the file ending in `._pth` (e.g., `python312._pth`) in Notepad.
 5. Ensure that the line `import site` is uncommented (remove the `#`), and append the following line at the bottom:
@@ -76,7 +76,7 @@ Aplikacija_Paket/
 
 ### Step 3: Configure the `.bat` Launcher (`Open_app.bat`)
 
-Create a file named `Open_app.bat` inside `Aplikacija_Paket` and add the following commands:
+Create a file named `Open_app.bat` inside `Aplication` and add the following commands:
 
 ```bat
 @echo off
