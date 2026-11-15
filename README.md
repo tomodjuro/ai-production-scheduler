@@ -50,7 +50,7 @@ If you want to run this application on a target machine that **does not have Pyt
 Create a folder named `Aplication` with the following layout:
 
 ```text
-Aplikacija_Paket/
+Aplication/
 │
 ├── python/                  # Extracted Python 3.12 Embeddable package
 │   └── Lib/
