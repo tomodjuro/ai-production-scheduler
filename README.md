@@ -25,7 +25,7 @@ An intelligent production planning assistant built with **Python**, **Pandas**, 
 
 ## 📂 Project Structure
 
-```text
+'''text
 ai-production-scheduler/
 │
 ├── data/
@@ -36,7 +36,7 @@ ai-production-scheduler/
 ├── backend.py                   # Core planning logic, OTD calculation & Groq API
 ├── requirements.txt             # Python dependencies
 ├── .env                         # your Groq API key
-└── README.md                    # Project documentation
+└── README.md                    # Project documentation '''
 
 ---
 
