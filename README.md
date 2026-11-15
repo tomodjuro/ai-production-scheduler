@@ -1,5 +1,6 @@
 # ⚙️ AI Production Scheduler & Bottleneck Predictor
 ("LLM-backed application", it is not RAG)
+
 An intelligent production planning assistant built with **Python**, **Pandas**, **Streamlit**, and **Groq LLM (Llama 3)**. This application helps production planners simulate work orders, calculate On-Time Delivery (OTD) risks, identify factory bottlenecks, and interact with an AI assistant via natural language to optimize scheduling.
 
 ---
