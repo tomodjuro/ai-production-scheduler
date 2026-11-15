@@ -42,6 +42,8 @@ ai-production-scheduler/
 ---
 ---
 ---
+---
+---
 
 
 ## 📦 Running on Another Computer (Portable Version)
@@ -99,6 +101,6 @@ pause
 
 ### Step 4: Launch the App
 
-1. Transfer the entire **`Aplikacija_Paket`** folder to the target machine (via USB drive, cloud, or network share).
+1. Transfer the entire **`Aplication`** folder to the target machine (via USB drive, cloud, or network share).
 2. Double-click on **`Open_app.bat`**.
 3. The server will start, and the application will automatically open in your default web browser.
