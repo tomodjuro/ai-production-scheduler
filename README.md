@@ -10,7 +10,7 @@ An intelligent production planning assistant built with **Python**, **Pandas**, 
 * **Real-time OTD Risk Analysis:** Automatically calculates capacity load per production line and flags orders at risk of delay due to processing time or raw material shortages.
 * **Interactive Dashboard:** Built with Streamlit for instant data visualization, color-coded status tables, and KPI metrics.
 * **Work Order Management:** Easily add new work orders via the sidebar form, which instantly updates the dataset and recalculates bottlenecks.
-* **AI Planner Assistant (Groq LLM):** Powered by ultra-fast Groq inference (`llama-3.3-70b-versatile`), allowing planners to ask natural language *"What-if"* questions and receive structured, actionable recommendations.
+* **AI Planner Assistant (Groq LLM):** Powered by ultra-fast Groq inference (`openai/gpt-oss-120b` model), allowing planners to ask natural language *"What-if"* questions and receive structured, actionable recommendations.
 
 ---
 
