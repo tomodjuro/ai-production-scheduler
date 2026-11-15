@@ -40,6 +40,9 @@ ai-production-scheduler/
 ```
 
 ---
+---
+---
+
 
 ## 📦 Running on Another Computer (Portable Version)
 
